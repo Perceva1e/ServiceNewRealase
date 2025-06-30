@@ -1,1 +1,8 @@
-spring.application.name=NewReleaseService
+spring:
+  application:
+    name: NewReleaseService
+server:
+  port: 8089
+servicedb:
+  api:
+    url: http://localhost:8081/api

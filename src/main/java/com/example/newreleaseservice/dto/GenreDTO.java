@@ -1,4 +1,4 @@
-package com.example.servicedb.dto;
+package com.example.newreleaseservice.dto;
 
 import lombok.Data;
 
